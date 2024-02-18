@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  pavarotitest
+
+  Created by Shady El-Maadawy on 18/02/2024.
+  
+*/
+
+"welcomeLabel" = "Welcome label text english";
+"buttonText" = "Button text label english";
+"placeHolderValue" = "Place holder label text english";

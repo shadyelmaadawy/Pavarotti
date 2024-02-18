@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fHz-TF-Hjc"; */
+"fHz-TF-Hjc.text" = "Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "tqL-I5-oPr"; */
+"tqL-I5-oPr.text" = "Title";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "uF2-ZH-qUy"; */
+"uF2-ZH-qUy.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uF2-ZH-qUy"; */
+"uF2-ZH-qUy.normalTitle" = "Button";

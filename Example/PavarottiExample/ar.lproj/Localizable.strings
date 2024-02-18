@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  pavarotitest
+
+  Created by Shady El-Maadawy on 18/02/2024.
+  
+*/
+"welcomeLabel" = "اهلاً بالعالم";
+"buttonText" = "مرحباً بالعالم";
+"placeHolderValue" = "صنع في مصر";
